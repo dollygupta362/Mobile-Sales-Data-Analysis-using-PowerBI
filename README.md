@@ -55,3 +55,10 @@ This project was a great opportunity to:
 👤 **Dolly Gupta**  
 🔗 [Connect on LinkedIn](www.linkedin.com/in/dolly-gupta-3b54b8229)  
 📧 **Email:** dollygupta362@gmail.com
+
+## 🙏 Acknowledgment
+
+I would like to express my sincere thanks to **Satish Dhawale** sir for designing and delivering the Power BI course that inspired this project. His guidance on data modeling, DAX, and dashboard creation played a key role in developing this analysis.
+
+Special thanks to the community of Power BI learners and mentors who continue to share knowledge and best practices.
+
