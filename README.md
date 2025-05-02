@@ -52,6 +52,6 @@ This project was a great opportunity to:
 - Learn how to work with filters, slicers, and interactive visuals
 
 ## 🙋‍♂️ About Me
-👤 Dolly Gupta
-🔗 [Connect on LinkedIn](www.linkedin.com/in/dolly-gupta-3b54b8229) 
-📧 Email: dollygupta362@gmail.com  
+👤 **Dolly Gupta**  
+🔗 [Connect on LinkedIn](www.linkedin.com/in/dolly-gupta-3b54b8229)  
+📧 **Email:** dollygupta362@gmail.com
