@@ -19,13 +19,13 @@ This project is built around a fictional mobile sales company operating nationwi
   - **Average Price**: Around ₹40,000 per unit  
 
 - 🔍 **Summary of Insights**
-- Delhi, Mumbai, and Ranchi were the top-performing cities in sales.
-- March and June recorded peak sales, likely due to seasonal demand.
-- Apple, Samsung, and OnePlus dominated brand performance and customer engagement.
-- iPhone SE, OnePlus Nord, and Galaxy Note 20 were the highest-selling models.
-- UPI and card payments were the most preferred transaction methods.
-- Majority of customers gave 5-star ratings, indicating high satisfaction.
-- Sales were strong throughout the week, with slight peaks on Monday, Thursday, and Saturday.
+  - Delhi, Mumbai, and Ranchi were the top-performing cities in sales.
+  - March and June recorded peak sales, likely due to seasonal demand.
+  - Apple, Samsung, and OnePlus dominated brand performance and customer engagement.
+  - iPhone SE, OnePlus Nord, and Galaxy Note 20 were the highest-selling models.
+  - UPI and card payments were the most preferred transaction methods.
+  - Majority of customers gave 5-star ratings, indicating high satisfaction.
+  - Sales were strong throughout the week, with slight peaks on Monday, Thursday, and Saturday.
 
 ## 🛠 Tools Used
 
