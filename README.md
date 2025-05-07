@@ -1,4 +1,4 @@
-# 📱 Mobile Sales Data Analysis (Power BI Project)
+<h1 align="center"> 📱 Mobile Sales Data Analysis (Power BI Project) </h1>
 
 Welcome to the Mobile Sales Data Analysis project! This Power BI dashboard explores mobile phone sales across different cities in India, offering key insights into product performance, customer preferences, and transaction trends. It was created as part of a hands-on learning journey in Power BI, focusing on real-world business intelligence practices.
 
