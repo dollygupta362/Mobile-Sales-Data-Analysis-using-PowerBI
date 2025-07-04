@@ -62,3 +62,6 @@ I would like to express my sincere thanks to **Satish Dhawale** sir for designin
 
 Special thanks to the community of Power BI learners and mentors who continue to share knowledge and best practices.
 
+**Note**
+This is a guided project.
+
